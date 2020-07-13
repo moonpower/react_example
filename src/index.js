@@ -1,9 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const title = "React Webpack Babel Setup";
+import Game from './components/Game';
 
 ReactDOM.render(
-    <div>{title}</div>,
+    <Game />,
     document.getElementById('root')
 )
+
+module.hot.accept();
