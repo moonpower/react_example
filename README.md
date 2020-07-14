@@ -10,6 +10,8 @@ https://github.com/babel/babel-loader
 
 https://ko.reactjs.org/tutorial/tutorial.html#function-components
 
+https://poiemaweb.com/es6-babel-webpack-2
+
 실행 
 
 $>npm start
